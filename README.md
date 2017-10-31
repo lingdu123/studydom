@@ -1,2 +1,0 @@
-# studydom
-my github
